@@ -10,4 +10,5 @@ volume = matrix(scan("volumeValues.csv",what=double(),sep=","),ncol=length(ticke
 
 
 #clean the data by removing all incomplete columns
+#rossiscool
 
